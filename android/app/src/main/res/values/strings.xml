@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GuardianX</string>
+    <string name="title_activity_main">GuardianX</string>
+    <string name="package_name">com.guardianx.app</string>
+    <string name="custom_url_scheme">com.guardianx.app</string>
+</resources>
